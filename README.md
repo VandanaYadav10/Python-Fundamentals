@@ -73,6 +73,4 @@ This repository introduces fundamental Python syntax and features using simple, 
 ## Usage
 
 - Open the notebooks in Jupyter, VS Code, or Google Colab to execute the examples cell by cell.
-- Use it as a **teaching** companion (projected during class) or as self‑study notes by editing and extending the given exercises.[1]
-
-[1](https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/87112459/57a074c6-4bf1-4de3-8583-785b3cc82b7e/Python_Notes.ipynb)
+- Use it as a **teaching** companion (projected during class) or as self‑study notes by editing and extending the given exercises.
